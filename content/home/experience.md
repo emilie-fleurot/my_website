@@ -26,12 +26,12 @@ experience:
 widget_id: experience
 headless: true
 weight: 40
-title: PhD Student
+title: ""
 subtitle: ""
 design:
   columns: "2"
   background:
-    image: lbbe.png
+    image: ""
 ---
 [Laboratoire de biométrie et biologie évolutive](https://lbbe-web.univ-lyon1.fr/fr)
 
