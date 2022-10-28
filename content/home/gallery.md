@@ -8,4 +8,4 @@ subtitle: null
 design:
   columns: "1"
 ---
-{{< gallery album="theùe_glandee.jpeg" >}}
+{{< gallery album="theme_glandee.jpeg" >}}
