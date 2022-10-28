@@ -1,4 +1,5 @@
 ---
+avatar_filename: photo_montpellier.jpg
 bio: My research interests include population dynamic, forest ecology, masting
   and climate change
 interests:
