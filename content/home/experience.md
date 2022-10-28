@@ -10,6 +10,3 @@ design:
     text_color_light: true
     image_darken: 0
 ---
-
-
-* ![](lbbe.png "Laboratoire de Biométrie et Biologie Évolutive")
