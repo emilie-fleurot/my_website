@@ -21,8 +21,8 @@ cta_alt:
   url: https://discord.gg/z8wNYzb
 design:
   background:
-    gradient_end: "#1976d2"
-    gradient_start: "#004ba0"
+    gradient_end: rgba(25, 118, 210, 0.02)
+    gradient_start: rgba(0, 75, 160, 0.02)
     text_color_light: false
     image: theme_glandée.jpeg
 hero_media: hero-academic.png
