@@ -1,5 +1,5 @@
 ---
-avatar_filename: "Photo_EFleurot.png"
+avatar_filename: photo_efleurot.jpg
 bio: My research interests include population dynamic, forest ecology, masting
   and climate change
 interests:
@@ -45,7 +45,7 @@ role: PhD Student in Ecology
 highlight_name: true
 title: Emilie Fleurot
 first_name: Emilie
-email: "emilieangelefleurot@gmail.com"
+email: emilieangelefleurot@gmail.com
 ---
 
 
