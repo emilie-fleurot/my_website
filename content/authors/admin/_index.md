@@ -1,5 +1,5 @@
 ---
-avatar_filename: photo_montpellier.png
+avatar_filename: Photo_EFleurot.png
 bio: My research interests include population dynamic, forest ecology, masting
   and climate change
 interests:
@@ -40,12 +40,12 @@ education:
       institution: University of Dijon
       year: 2017
 superuser: true
-last_name: Bighetti
+last_name: Fleurot
 role: PhD Student in Ecology
 highlight_name: true
 title: Emilie Fleurot
-first_name: Alice
-email: ""
+first_name: Emilie
+email: "emilieangelefleurot@gmail.com"
 ---
 
 
