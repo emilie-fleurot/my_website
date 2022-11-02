@@ -29,7 +29,6 @@ content:
   coordinates:
   directions: Laboratory of Biometry and Evolutionary Biologie (LBBE)
   
-  
               Lyon 1 University, Building 711, Floor 1
   contact_links:
     - icon: twitter
