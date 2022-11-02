@@ -3,7 +3,7 @@ widget: hero
 widget_id: theme
 headless: true
 weight: 10
-title: "**Emilie Fleurot - PhD Student**"
+title: ""
 design:
   background:
     gradient_end: ""
