@@ -8,6 +8,6 @@ design:
   background:
     gradient_end: ""
     gradient_start: ""
-    color: DeepSkyBlue
+    color: 'DeepSkyBlue'
     image: theme_glandée.jpeg
 ---
