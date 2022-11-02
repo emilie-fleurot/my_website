@@ -8,6 +8,6 @@ design:
   background:
     gradient_end: ""
     gradient_start: ""
-    text_color_light: White
+    text_color_light: true
     image: theme_glandée.jpeg
 ---
