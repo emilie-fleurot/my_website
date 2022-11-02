@@ -1,5 +1,5 @@
 ---
-avatar_filename: Photo_EFleurot.png
+avatar_filename: "Photo_EFleurot.png"
 bio: My research interests include population dynamic, forest ecology, masting
   and climate change
 interests:
