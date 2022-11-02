@@ -24,7 +24,7 @@ event: Phenology at the crossroads 2022
 publishDate: 2022-11-02T15:20:14.755Z
 tags: []
 projects:
-  - talks
+  - Talks
 image:
   caption: ""
   focal_point: ""
