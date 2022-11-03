@@ -20,7 +20,7 @@ publishDate: 2022-11-03T12:33:04.364Z
 draft: false
 featured: true
 authors:
-  - Keurinck
+  - Keurinck Léa
 image:
   filename: arqus_2022.png
   focal_point: Smart
