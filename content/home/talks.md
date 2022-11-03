@@ -15,16 +15,6 @@ content:
   order: desc
   
     # Filter on criteria
-
-  filters:
-      folders:
-      - event
-    category: "Local"
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  filter_default: 0
   
   filter_button:
     - name: Upcoming
@@ -36,3 +26,7 @@ headless: true
 design:
   view: Compact
 ---
+
+{{% callout note %}}
+[SEE ALL TALKS](./event/).
+{{% /callout %}}
