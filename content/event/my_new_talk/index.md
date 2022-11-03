@@ -31,6 +31,8 @@ all_day: true
 event: PHENO 2022
 event_url: https://pheno-2022.colloque.inrae.fr/
 publishDate: 2022-11-03T10:26:34.002Z
+tags:
+  - Recent
 image:
   filename: pheno_2022.png
 ---
