@@ -19,8 +19,7 @@ content:
   filters:
       folders:
       - event
-    date: ""
-    category: ""
+    category: "Local"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
