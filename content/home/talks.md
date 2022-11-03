@@ -4,7 +4,7 @@ widget_id: recent & upcoming talks
 weight: 70
 title: Recent & Upcoming Talks
 subtitle: null
-active: true
+active: false
 content:
   page_type: event
   count: 5
@@ -20,7 +20,7 @@ content:
   filter_default: 0
   filter_button:
     - name: Upcoming
-      tag: "Upcoming"
+      tag: Upcoming
     - name: Recent
       tag: Demo
 headless: true
