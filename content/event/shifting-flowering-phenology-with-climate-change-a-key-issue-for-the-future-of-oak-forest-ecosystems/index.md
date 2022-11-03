@@ -24,6 +24,8 @@ draft: false
 featured: false
 tags:
   - Recent
+categories:
+  - Local
 image:
   filename: ecology_and_behaviour_2022.png
   focal_point: Smart
