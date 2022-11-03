@@ -28,5 +28,5 @@ design:
 ---
 
 
-[SEE ALL TALKS](./event/)
+[SEE ALL TALKS >](./event/)
 
