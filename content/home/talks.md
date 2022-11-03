@@ -20,7 +20,7 @@ content:
   filter_default: 0
   filter_button:
     - name: Upcoming
-      tag: "*"
+      tag: "Upcoming"
     - name: Recent
       tag: Demo
 headless: true
