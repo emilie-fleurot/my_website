@@ -8,7 +8,15 @@ active: true
 
 content:
   page_type: event
-  count: 5
+      folders:
+      - Talks
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+  
   filters:
     author: ""
     category: ""
@@ -17,7 +25,6 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ""
-  offset: 0
   filter_default: 0
   
   filter_button:
