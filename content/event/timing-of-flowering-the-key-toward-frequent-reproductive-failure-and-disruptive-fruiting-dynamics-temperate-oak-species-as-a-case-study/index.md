@@ -21,7 +21,7 @@ abstract: >-
   entire forest ecosystems.
 location: Porquerolles, France
 date: 2021-06-15T16:14:08.474Z
-date_end: 2021-06-14T22:00:00.000Z
+date_end: 2021-06-15T21:00:00.000Z
 all_day: true
 event: Mathematical And Computational Evolutionary Biology
 event_url: https://mceb2021.sciencesconf.org/
