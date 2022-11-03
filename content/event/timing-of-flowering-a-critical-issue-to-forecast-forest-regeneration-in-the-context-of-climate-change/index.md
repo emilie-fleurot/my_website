@@ -13,7 +13,7 @@ abstract: >-
 location: Lyon, France
 date: 2022-05-31T15:15:04.325Z
 date_end: 2022-05-31T16:00:00.000Z
-all_day: true
+all_day: false
 event: Arqus Research Focus Forum on Climate Change and Biodiversity
 event_url: https://arqus-alliance.eu/news/forum-climate-change-biodiversity-lyon-new-dates/
 publishDate: 2022-11-03T12:33:04.364Z
