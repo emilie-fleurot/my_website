@@ -27,6 +27,6 @@ design:
   view: Compact
 ---
 
-{{% callout note %}}
-[SEE ALL TALKS](./event/).
-{{% /callout %}}
+
+[SEE ALL TALKS](./event/)
+
