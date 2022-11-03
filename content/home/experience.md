@@ -25,7 +25,7 @@ experience:
   - title: PhD Student
     company: Laboratory of Biometry and Evolutionary Biology
     company_url: 'https://lbbe-web.univ-lyon1.fr/fr'
-    company_logo: org-gc
+    company_logo: lbbe
     location: Lyon, France
     date_start: '2019-11-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Trainee on germination phenology and dispersion rate coevoluton in an heteromorphic species
     company: Center of Functional And Evolutive Ecology
     company_url: 'https://www.cefe.cnrs.fr/fr/'
-    company_logo: org-x
+    company_logo: cefe_logo
     location: Montpellier, France
     date_start: '2019-03-01'
     date_end: '2019-07-31'
@@ -49,7 +49,7 @@ experience:
   - title: Trainee on the interplay between demography and auto-incompatibility system in Brassica insularis
     company: Institute of Evolutionary Science of Montpellier
     company_url: 'https://isem-evolution.fr/en/'
-    company_logo: org-x
+    company_logo: isem
     location: Montpellier, France
     date_start: '2018-04-02'
     date_end: '2018-07-31'
