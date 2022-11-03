@@ -15,7 +15,7 @@ abstract: The reproduction of many tree species is characterized by masting,
   and the associated ecosystem dynamics.
 location: Strasbourg, France
 date: 2022-03-23T12:24:00.000Z
-date_end: 2022-03-22T23:00:00.000Z
+date_end: 2022-03-23T22:00:00.000Z
 all_day: true
 event: Ecology & Behaviour
 event_url: https://ecobhv15.sciencesconf.org/index/closed
