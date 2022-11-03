@@ -19,7 +19,7 @@ abstract: >-
   flowering intensity in oak masting. The high variability observed in acorn production is thus the result of a combination between the two hypotheses described in the literature. This result highlights the importance of taking flowering into account to identify masting proximate mechanisms, which isn't the case in most published studies. Our work showed that flowering intensity and fructification rate are both influenced by past year fruiting intensity : it could either highlight a resource depletion effect or a resource allocation strategy. Fructification rate is also influenced by the amount of flowers produced by conspecific neighbors, an estimation of allogamous available pollen, an important resource for self-incompatible species such as oak. Identifying proximate mechanisms is an important step to improve our understanding of oak masting and make accurate forecasting, a goal of great importance in the context of climate change to be able to predict its impact on forest ecosystems.
 location: Lyon, France
 date: 2021-05-20T16:09:43.730Z
-date_end: 2021-05-19T22:00:00.000Z
+date_end: 2021-05-20T21:00:00.000Z
 all_day: true
 event: Décryp’thèse
 event_url: https://e2m2.universite-lyon.fr/doctoriales-decryp-these-2021-20-mai-2021-218177.kjsp
