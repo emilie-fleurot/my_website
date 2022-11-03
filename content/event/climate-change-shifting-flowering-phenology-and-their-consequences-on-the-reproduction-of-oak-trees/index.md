@@ -16,7 +16,7 @@ abstract: Many tree species display masting, i.e., population-scale very large
   dynamics.
 location: Avignon, France
 date: 2022-06-21T16:08:13.655Z
-date_end: 2022-06-20T22:00:00.000Z
+date_end: 2022-06-21T21:00:00.000Z
 all_day: true
 event: Phenology at the crossroads 2022
 event_url: https://pheno-2022.colloque.inrae.fr/
