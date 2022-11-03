@@ -8,5 +8,5 @@ author: admin
 widget_id: biography
 design:
   background:
-    image: Photo_EFleurot.jpg
+    image: ""
 ---
