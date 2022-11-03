@@ -29,13 +29,7 @@ experience:
     location: Lyon, France
     date_start: '2019-11-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Research
-        * Analysing
-        * Modelling
-        * Supervising
+    description: Research, analysing, modelling, supervising, teaching
 
   - title: Trainee on germination phenology and dispersion rate coevoluton in an heteromorphic species
     company: Center of Functional And Evolutive Ecology
