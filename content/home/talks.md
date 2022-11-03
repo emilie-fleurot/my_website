@@ -5,6 +5,7 @@ weight: 70
 title: Recent & Upcoming Talks
 subtitle: null
 active: true
+
 content:
   page_type: event
   count: 5
@@ -18,12 +19,14 @@ content:
     publication_type: ""
   offset: 0
   filter_default: 0
+  
   filter_button:
     - name: Upcoming
       tag: Upcoming
     - name: Recent
-      tag: Demo
+      tag: Recent
 headless: true
+
 design:
   view: Compact
 ---
