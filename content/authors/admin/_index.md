@@ -6,6 +6,7 @@ interests:
   - Forest ecology
   - Masting
   - Climate change
+  - Life-History Traits
 social:
   - icon: envelope
     icon_pack: fas
