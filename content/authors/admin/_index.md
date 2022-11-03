@@ -47,6 +47,10 @@ title: Emilie Fleurot
 first_name: Emilie
 email: emilieangelefleurot@gmail.com
 ---
+I am an early carrier ecologist interested in plant's population dynamic, life-history traits and response to global change. I work as a PhD Student with \[Samuel](https://lbbe-web.univ-lyon1.fr/fr/annuaires-des-membres/venner-samuel) and \[Marie-Claude Venner] (https://lbbe-web.univ-lyon1.fr/fr/annuaires-des-membres/venner-marie-claude) at the Laboratory of Biometry and Evolutive Biology.  My research focuses on identifyinng oak masting drivers and forecasting the future of oak reproduction in the context of climate change. 
+
+I am looking for a postdoc position for \*\*mid/late 2023\*\*. 
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
