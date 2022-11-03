@@ -10,17 +10,17 @@ content:
   page_type: event
 
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 2
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   
     # Filter on criteria
   
   filter_button:
-    - name: Upcoming
-      tag: Upcoming
     - name: Recent
       tag: Recent
+    - name: Upcoming
+      tag: Upcoming
 headless: true
 
 design:
