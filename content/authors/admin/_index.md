@@ -52,4 +52,4 @@ I am an early carrier ecologist interested in plant population dynamic, life-his
 
 I am looking for a postdoc position for **mid/late 2023**. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
