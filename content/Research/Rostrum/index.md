@@ -20,4 +20,4 @@ The four weevil species, that coexist on the same individual trees, display dist
 + Marked differences in the allometric slope exists, species laying eggs late in the season on big acorns having a steeper allometric slope
 + The species with the longest oviposition period has the most variable rostrum length, matching with the highly variable size of the exploited resource
 
-This work led to an article :
+This work led to an article.
