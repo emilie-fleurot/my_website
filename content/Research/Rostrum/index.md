@@ -16,7 +16,7 @@ Research Goals:
 
 Linked Publications :
 - name: The morphological allometry of four closely related and coexisting insect species reveals adaptation to the mean and variability of the resource size
-    url: https://www.emiliefleurot.com/publication/the-morphological-allometry-of-four-closely-related-and-coexisting-insect-species-reveals-adaptation-to-the-mean-and-variability-of-the-resource-size/
+- url: https://www.emiliefleurot.com/publication/the-morphological-allometry-of-four-closely-related-and-coexisting-insect-species-reveals-adaptation-to-the-mean-and-variability-of-the-resource-size/
     
 ---
 
