@@ -11,7 +11,13 @@ external_link: ''
 image:
   caption: Photo by emilie.fleurot
   focal_point: Smart
-  
+
+Research Goals:
+
+Linked Publications :
+- name: The morphological allometry of four closely related and coexisting insect species reveals adaptation to the mean and variability of the resource size
+    url: https://www.emiliefleurot.com/publication/the-morphological-allometry-of-four-closely-related-and-coexisting-insect-species-reveals-adaptation-to-the-mean-and-variability-of-the-resource-size/
+    
 ---
 
 Morphological allometry corresponds to the way trait size scales with body size. This relation has been shown to reflect ecological adaptation of organisms to their environment and more particularly to the mean size of the resource exploited. 
@@ -20,4 +26,4 @@ The four weevil species, that coexist on the same individual trees, display dist
 + Marked differences in the allometric slope exists, species laying eggs late in the season on big acorns having a steeper allometric slope
 + The species with the longest oviposition period has the most variable rostrum length, matching with the highly variable size of the exploited resource
 
-This work will led to an article : {{< staticref "[content/publication/the-morphological-allometry-of-four-closely-related-and-coexisting-insect-species-reveals-adaptation-to-the-mean-and-variability-of-the-resource-size/index.md](https://www.emiliefleurot.com/publication/the-morphological-allometry-of-four-closely-related-and-coexisting-insect-species-reveals-adaptation-to-the-mean-and-variability-of-the-resource-size/)" "newtab" >}}The morphological allometry of four closely related and coexisting insect species reveals adaptation to the mean and variability of the resource size{{< /staticref >}}
+This work will led to an article :
