@@ -22,4 +22,4 @@ I am interested in :
 + Studying how oak pollen phenology has changed on the past three decades and how it shaped the evolution of pollen phenology.
 + Predicting the evolution of acorn production dynamic along a climatic gradient.
 
-This work will lead to four papers, one manuscript is in review. The three other papers are in progress.
+This work will lead to three papers, one manuscript has been accepted in Current Biology. The two other papers are in progress.
