@@ -6,7 +6,7 @@ publication_types:
 authors:
   - E. Fleurot¹  · S. Venner¹ · P‑F. Pélisson¹ · F. Débias¹ · M‑C. Bel‑Venner¹
 author_notes:
-  - Laboratoire de Biométrie et de Biologie Évolutive
+  - ¹ Laboratoire de Biométrie et de Biologie Évolutive
   - UMR‑CNRS 5558
   - Université de Lyon
   - Université Claude Bernard Lyon 1
