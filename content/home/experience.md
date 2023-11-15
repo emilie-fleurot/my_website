@@ -28,7 +28,7 @@ experience:
     company_logo: lbbe
     location: Lyon, France
     date_start: '2019-11-01'
-    date_end: ''
+    date_end: '2023-07-03'
     description: Research, analysing, modelling, supervising, teaching
 
   - title: Trainee on germination phenology and dispersion rate coevoluton in an heteromorphic species
