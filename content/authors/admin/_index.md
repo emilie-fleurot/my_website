@@ -19,7 +19,7 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://lbbe-web.univ-lyon1.fr/fr/annuaires-des-membres/fleurot-emilie
+    link: https://www.disafa.unito.it/do/docenti.pl/Show?_id=efleurot#tab-profilo
   - icon: github
     icon_pack: fab
     link: https://github.com/emilie-fleurot
@@ -27,8 +27,8 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Emilie-Fleurot-3
 organizations:
-  - name: Laboratoire de Biométrie et Biologie Évolutive
-    url: https://lbbe-web.univ-lyon1.fr/fr
+  - name: Department of Agricultural, Forestry and Food Sciences
+    url: https://en.disafa.unito.it/do/home.pl
 education:
   courses:
     - course: PhD in Ecology
@@ -42,7 +42,7 @@ education:
       year: 2017
 superuser: true
 last_name: Fleurot
-role: PhD Student in Ecology
+role: Post-Doc in Ecology
 highlight_name: true
 title: Emilie Fleurot
 first_name: Emilie
