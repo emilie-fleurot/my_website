@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Ecology
       institution: Claude Bernard Lyon 1 University
-      year: ""
+      year: 2023
     - course: Master in Biologie, Ecology and Evolution
       institution: University of Montpellier
       year: 2019
@@ -48,8 +48,6 @@ title: Emilie Fleurot
 first_name: Emilie
 email: emilieangelefleurot@gmail.com
 ---
-I am an early carrier ecologist interested in plant population dynamic, life-history traits and response to climate change. I work as a PhD Student with [Samuel](https://lbbe-web.univ-lyon1.fr/fr/annuaires-des-membres/venner-samuel) and [Marie-Claude Venner](https://lbbe-web.univ-lyon1.fr/fr/annuaires-des-membres/venner-marie-claude) at the Laboratory of Biometry and Evolutive Biology.  My research focuses on identifying oak masting drivers and forecasting the future of oak reproduction in the context of climate change. 
-
-I am looking for a postdoc position for **mid/late 2023**. 
+I am an early career ecologist interested in plant population dynamic, life-history traits and response to climate change. I work as a Post Doc with Davide Ascoli at the Department of Agricultural, Forestry and Food Sciences (DISAFA) in Turin. My research mainly focuses on identifying oak growth factors and predicting the future of oak reproduction in the context of climate change as well as studying the dieback process of forest stands in the Alps.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
