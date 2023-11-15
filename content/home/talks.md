@@ -1,7 +1,8 @@
 ---
 widget: portfolio
 widget_id: recent & upcoming talks
-weight: 70
+weight: 60
+#70
 title: Recent & Upcoming Talks
 subtitle: null
 active: true
