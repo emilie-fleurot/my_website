@@ -3,12 +3,12 @@ title: Reconciling Pollen Limitation Theories: Insights From Temperate Oak Masti
 publication_types:
   - "2"
 authors:
-  - E. Fleurot¹2  · L. Keurinck¹ · V. Boulanger3 · F. Débias¹ · N. Delpierre4· S. Delzon5· J. Lobry¹· M‑C. Bel‑Venner¹ · S. Venner¹
+  - E. Fleurot¹²  · L. Keurinck¹ · V. Boulanger³ · F. Débias¹ · N. Delpierre4 · S. Delzon5· J. Lobry¹· M‑C. Bel‑Venner¹ · S. Venner¹
  
 author_notes:
   - ¹ Laboratoire de Biométrie et de Biologie Évolutive, Université Lyon 1, CNRS, Villeurbanne, France
-  - 2 Department DISAFA, University of Torino (IT), Torino, Italy
-  - 3 Département Recherche, Développement et Innovation, Office National des Forêts, Fontainebleau, France
+  - ² Department DISAFA, University of Torino (IT), Torino, Italy
+  - ³ Département Recherche, Développement et Innovation, Office National des Forêts, Fontainebleau, France
   - 4 Ecologie, Systématique et Evolution (ESE), Université Paris-Saclay, Gif-sur-Yvette, France
   - 5 Université de Bordeaux—INRAE, UMR BIOGECO, Pessac, France
 
