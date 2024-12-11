@@ -3,7 +3,7 @@ title: Reconciling Pollen Limitation Theories: Insights From Temperate Oak Masti
 publication_types:
   - "2"
 authors:
-  - E. Fleurot¹· L. Keurinck¹· V. Boulanger³· F. Débias¹· N. Delpierre· S. Delzon· J. Lobry¹· M‑C. Bel‑Venner¹· S. Venner¹
+  - E. Fleurot· L. Keurinck· V. Boulanger· F. Débias· N. Delpierre· S. Delzon· J. Lobry· M‑C. Bel‑Venner· S. Venner
 author_notes:[]
 doi: https://doi.org/10.1111/ele.70009
 publication: Ecology Letters
