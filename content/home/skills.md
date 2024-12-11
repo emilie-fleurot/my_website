@@ -29,8 +29,8 @@ feature:
     icon_pack: fas
     name: Modeling
   - description:
-    icon: QGIS_logo
-    icon_pack: fas
+    icon: map
+    icon_pack: hero
     name: QGIS
 
 # Uncomment to use emoji icons.
