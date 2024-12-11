@@ -28,6 +28,10 @@ feature:
     icon: computer
     icon_pack: fas
     name: Modeling
+  - description:
+    icon: QGIS_logo
+    icon_pack: fas
+    name: QGIS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
