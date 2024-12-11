@@ -1,5 +1,5 @@
 ---
-title: Reconciling Pollen Limitation Theories: Insights From Temperate Oak Masting
+title: Reconciling Pollen Limitation Theories, Insights From Temperate Oak Masting
 publication_types:
   - "2"
 authors:
