@@ -33,6 +33,10 @@ feature:
     icon_pack: "custom"
     name: QGIS
 
+# A parameter to make sure that all the logos are on the same row (increase the number of column when you add a new skill)
+design:
+  columns: '4'
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
