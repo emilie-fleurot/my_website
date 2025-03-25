@@ -28,7 +28,6 @@ experience:
     company_logo: Logo_UniTO
     location: Turin, Italy
     date_start: '2023-11-02'
-    date_end: Current
     description: Research, analysing, modelling, field-work
   
   - title: PhD Student
