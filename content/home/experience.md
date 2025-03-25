@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Post-Doc Researcher
+    company: Department of Agricultural, Forestry and Food Sciences
+    company_url: 'https://www.disafa.unito.it/do/home.pl'
+    company_logo: Logo_UniTO
+    location: Turin, Italy
+    date_start: '2023-11-02'
+    date_end: Current
+    description: Research, analysing, modelling, field-work
+  
   - title: PhD Student
     company: Laboratory of Biometry and Evolutionary Biology
     company_url: 'https://lbbe-web.univ-lyon1.fr/fr'
