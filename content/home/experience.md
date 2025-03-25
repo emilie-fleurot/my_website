@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - title: Postdoc Researcher
-    company: Department of Agricultural, Forestry and Food Sciences
+    company: 'Department of Agricultural, Forestry and Food Sciences'
     company_url: 'https://www.disafa.unito.it/do/home.pl'
     company_logo: Logo_UniTO
     location: Turin, Italy
