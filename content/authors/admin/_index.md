@@ -11,10 +11,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/emiliefleurot
-    label: Follow me on Twitter
+  - icon: bluesky
+    icon_pack: brands
+    link: https://bsky.app/profile/emilie-fleurot.bsky.social
+    label: Follow me on bluesky
     display:
       header: true
   - icon: graduation-cap
@@ -50,4 +50,4 @@ email: emilieangelefleurot@gmail.com
 ---
 I am an early career ecologist interested in plant population dynamic, life-history traits and response to climate change. I work as a Post Doc with Davide Ascoli at the Department of Agricultural, Forestry and Food Sciences (DISAFA) in Turin. My research mainly focuses on identifying oak growth factors and predicting the future of oak reproduction in the context of climate change as well as studying the dieback process of forest stands in the Alps.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_resume.pdf" "newtab" >}}resumé{{< /staticref >}} (updated March 2025).
