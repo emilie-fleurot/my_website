@@ -26,13 +26,13 @@ content:
 
   # Contact details (edit or remove options as required)
   email: emilieangelefleurot@gmail.com
-  coordinates:
-  directions: Laboratory of Biometry and Evolutionary Biologie (LBBE), Lyon 1 University, Building 711, Floor 1
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/emiliefleurot'
+  # coordinates:
+  # directions: Laboratory of Biometry and Evolutionary Biologie (LBBE), Lyon 1 University, Building 711, Floor 1
+  # contact_links:
+  #   - icon: twitter
+  #     icon_pack: fab
+  #     name: DM Me
+  #    link: 'https://twitter.com/emiliefleurot'
 
 design:
   columns: '2'
