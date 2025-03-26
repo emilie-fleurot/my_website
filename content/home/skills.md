@@ -16,20 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description:
-    icon: r-project
+  - icon: r-project
     icon_pack: fab
     name: R
-  - description:
-    icon: chart-line
+  - icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description:
-    icon: computer
+  - icon: computer
     icon_pack: fas
     name: Modeling
-  - description:
-    icon: "custom/QGIS"
+  - icon: "custom/QGIS"
     icon_pack: "custom"
     name: QGIS
 
